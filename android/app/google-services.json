@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367687725740",
+    "project_id": "psesmuiot-d68cd",
+    "storage_bucket": "psesmuiot-d68cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367687725740:android:a0690683c0db0037f4a509",
+        "android_client_info": {
+          "package_name": "com.appgpsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367687725740-ash6m1bqcf2qkpi9bknfpi7upv6sjl8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appgpsproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "367687725740-17fa10patrq9o88l5ogt4jgrhoaeg4s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZgiECpe34MnDRZmzTlHGColXhFzyEY74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367687725740-17fa10patrq9o88l5ogt4jgrhoaeg4s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
